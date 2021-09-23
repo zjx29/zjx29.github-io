@@ -1,2 +1,2 @@
 # zjx29.github-io
-![bear](bear.jpg)
+![圖](bear.jpg)
